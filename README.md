@@ -1,0 +1,2 @@
+# wfhavg
+Daily digest notes
